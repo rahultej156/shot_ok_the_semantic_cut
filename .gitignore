@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Data & Models
+data/hf_cache/
+chroma_db/
+
+# OS
+.DS_Store
+
+# Frontend (if not using nested gitignore, but good to have here too)
+web/node_modules/
+web/.next/
+web/.env.local

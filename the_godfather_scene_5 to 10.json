@@ -1,0 +1,230 @@
+{
+    "scene_id": "scene_5",
+    "scene_description": {
+        "int_ext": "INT",
+        "location": "DON'S OFFICE",
+        "time_of_day": "DAY",
+        "actors_involved": [
+            "DON CORLEONE",
+            "HAGEN"
+        ]
+    },
+    "clips": [
+        {
+            "clip_id": "scene_5_clip_1",
+            "clip_description": [
+                "The DON turns to HAGEN inside the dark office.",
+                "He questions the necessity of the matter at hand.",
+                "After listening, the DON turns back to the Venetian blinds and peers outside."
+            ],
+            "actors_involved": [
+                "DON CORLEONE",
+                "HAGEN"
+            ],
+            "dialogue": [
+                {
+                    "timestamp_start_sec": 0.0,
+                    "timestamp_end_sec": 4.0,
+                    "actor": "DON CORLEONE",
+                    "text": "Is it necessary?"
+                },
+                {
+                    "timestamp_start_sec": 4.5,
+                    "timestamp_end_sec": 8.5,
+                    "actor": "HAGEN",
+                    "text": "You understand him better than anyone."
+                }
+            ]
+        }
+    ]
+}
+{
+    "scene_id": "scene_6",
+    "scene_description": {
+        "int_ext": "EXT",
+        "location": "MALL",
+        "time_of_day": "DAY",
+        "actors_involved": [
+            "MICHAEL",
+            "KAY"
+        ]
+    },
+    "clips": [
+        {
+            "clip_id": "scene_6_clip_1",
+            "clip_description": [
+                "From the DON’s point of view, MICHAEL CORLEONE, dressed in a Marine Captain’s uniform, moves through the wedding crowd.",
+                "He leads KAY ADAMS by the hand, frequently stopping as family friends greet him."
+            ],
+            "actors_involved": [
+                "MICHAEL",
+                "KAY"
+            ],
+            "dialogue": []
+        }
+    ]
+}
+{
+    "scene_id": "scene_7",
+    "scene_description": {
+        "int_ext": "INT",
+        "location": "DON'S OFFICE",
+        "time_of_day": "DAY",
+        "actors_involved": [
+            "DON CORLEONE"
+        ]
+    },
+    "clips": [
+        {
+            "clip_id": "scene_7_clip_1",
+            "clip_description": [
+                "Inside the office, the DON peers through the Venetian blinds.",
+                "He silently follows MICHAEL and KAY as they move through the wedding outside."
+            ],
+            "actors_involved": [
+                "DON CORLEONE"
+            ],
+            "dialogue": []
+        }
+    ]
+}
+{
+    "scene_id": "scene_8",
+    "scene_description": {
+        "int_ext": "EXT",
+        "location": "MALL",
+        "time_of_day": "DAY",
+        "actors_involved": [
+            "MICHAEL",
+            "KAY",
+            "MAMA"
+        ]
+    },
+    "clips": [
+        {
+            "clip_id": "scene_8_clip_1",
+            "clip_description": [
+                "MICHAEL moves through the wedding crowd.",
+                "He embraces MAMA and introduces her to KAY."
+            ],
+            "actors_involved": [
+                "MICHAEL",
+                "KAY",
+                "MAMA"
+            ],
+            "dialogue": []
+        }
+    ]
+}
+{
+    "scene_id": "scene_9",
+    "scene_description": {
+        "int_ext": "EXT",
+        "location": "OFFICE WINDOW",
+        "time_of_day": "DAY",
+        "actors_involved": [
+            "DON CORLEONE"
+        ]
+    },
+    "clips": [
+        {
+            "clip_id": "scene_9_clip_1",
+            "clip_description": [
+                "Close on the DON’s eyes as he peers through the Venetian blinds.",
+                "His gaze follows the movement outside the office window."
+            ],
+            "actors_involved": [
+                "DON CORLEONE"
+            ],
+            "dialogue": []
+        }
+    ]
+}
+{
+    "scene_id": "scene_10",
+    "scene_description": {
+        "int_ext": "EXT",
+        "location": "MALL TABLES",
+        "time_of_day": "DAY",
+        "actors_involved": [
+            "KAY",
+            "MICHAEL"
+        ]
+    },
+    "clips": [
+        {
+            "clip_id": "scene_10_clip_1",
+            "clip_description": [
+                "KAY and MICHAEL settle at a table on the edge of the wedding, carrying plates of food and glasses of wine.",
+                "KAY is exhilarated by the scale of the celebration, the music, and the vitality around her."
+            ],
+            "actors_involved": [
+                "KAY",
+                "MICHAEL"
+            ],
+            "dialogue": [
+                {
+                    "timestamp_start_sec": 0.0,
+                    "timestamp_end_sec": 4.0,
+                    "actor": "KAY",
+                    "text": "I've never seen anything like it."
+                },
+                {
+                    "timestamp_start_sec": 4.5,
+                    "timestamp_end_sec": 8.5,
+                    "actor": "MICHAEL",
+                    "text": "I told you I had a lot of relatives."
+                }
+            ]
+        },
+        {
+            "clip_id": "scene_10_clip_2",
+            "clip_description": [
+                "KAY looks around the wedding curiously.",
+                "Her attention is drawn to three men standing quietly by the wine barrels."
+            ],
+            "actors_involved": [
+                "KAY",
+                "MICHAEL"
+            ],
+            "dialogue": [
+                {
+                    "timestamp_start_sec": 9.0,
+                    "timestamp_end_sec": 13.0,
+                    "actor": "KAY",
+                    "text": "Michael, what are those men doing?"
+                },
+                {
+                    "timestamp_start_sec": 13.5,
+                    "timestamp_end_sec": 17.5,
+                    "actor": "MICHAEL",
+                    "text": "They're waiting to see my father."
+                },
+                {
+                    "timestamp_start_sec": 18.0,
+                    "timestamp_end_sec": 22.0,
+                    "actor": "KAY",
+                    "text": "They're talking to themselves."
+                },
+                {
+                    "timestamp_start_sec": 22.5,
+                    "timestamp_end_sec": 26.5,
+                    "actor": "MICHAEL",
+                    "text": "They're going to talk to my father, which means they're going to ask him for something, which means they better get it right."
+                },
+                {
+                    "timestamp_start_sec": 27.0,
+                    "timestamp_end_sec": 31.0,
+                    "actor": "KAY",
+                    "text": "Why do they bother him on a day like this?"
+                },
+                {
+                    "timestamp_start_sec": 31.5,
+                    "timestamp_end_sec": 35.5,
+                    "actor": "MICHAEL",
+                    "text": "Because they know that no Sicilian will refuse a request on his daughter's wedding day."
+                }
+            ]
+        }
+    ]
+}
